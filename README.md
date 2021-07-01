@@ -1,2 +1,2 @@
 # AI-CSC 481
-The follow are directories that lead to projects and topics cover in my Artificial Intelligence course.
+The follow are directories lead to projects and topics covered in my Artificial Intelligence course.
